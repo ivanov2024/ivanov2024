@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently a high school student learning about Entity Framework Core
+🌱 I’m currently a high school student developing a mobile application in C#
 
 
 ## 🌐 Socials:
