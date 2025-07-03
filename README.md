@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently a high school student developing a mobile application in C#
+🌱 I’m currently a high school student learning and mastering C#
 
 
 ## 🌐 Socials:
