@@ -98,6 +98,6 @@ Completed C# development courses covering programming fundamentals, advanced pro
 
 ## Connect With Me
 
-* **Email:** [ivanov.github@gmail.com](mailto:ivanov.github@gmail.com)
+* **Email:** [ivan.ivanov.dev@proton.me](mailto:ivan.ivanov.dev@proton.me)
 * **GitHub:** [ivanov2024](https://github.com/ivanov2024)
 * **Instagram:** [@vanka_ta07](https://instagram.com/vanka_ta07)
